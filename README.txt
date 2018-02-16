@@ -34,3 +34,9 @@ Credits:
 		background-size polyfill (github.com/louisremi)
 		Repond.js (j.mp/respondjs)
 		Skel (skel.io)
+		
+		
+
+https://html5up.net/astral
++
+https://html5up.net/phantom
